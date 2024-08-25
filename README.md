@@ -12,7 +12,7 @@ I am a Full Stack Cloud Developer and also an AI Engineer with expertise in Java
 * 🚀  I'm currently working on [Boswazi](http://www.boswazi.com)
 * 🧠  I'm learning AI Engineering
 * 🤝  I'm open to collaborating on awesome projects that drive innovative solutions and technological advancements and shape the future.
-* ⚡  I am Bsc. Electronics graduate.
+* ⚡  I am a Bsc. Electronics graduate.
 
 <a href="https://www.x.com/DerickMg19" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/DerickMg19?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
