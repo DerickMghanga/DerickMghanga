@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Software Developer and AI Engineer
 ------------------------------------------
 
-I am a Full Stack Software Developer and also an AI Engineer with expertise in JavaScript, TypeScript, Python, Cloud Computing, Gen AI, various front-end, back-end and AI frameworks. I develop hybrid web applications / softwares that scale and meet client needs. With a deep understanding of both front-end and back-end development including best practices, I am an innovative developer ready to solve problems and handle projects.
+I am a Full Stack Software Developer and also an AI Engineer with expertise in JavaScript, TypeScript, Python, PHP, Java, Cloud Computing, Artificial Intelligence, Machine Learning, various front-end and back-end frameworks. I develop hybrid web applications and software that scale and meet client needs. With a deep understanding of both front-end and back-end development including best practices, I am an innovative developer ready to solve problems and handle projects.
 
 * 🌍  I'm based in Nairobi, Kenya
 * 🖥️  See my portfolio at [derickmg.dev](http://www.derickmg.dev/)
