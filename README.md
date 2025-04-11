@@ -9,7 +9,6 @@ I am a Full Stack Software Developer and also an AI Engineer with expertise in J
 * 🌍  I'm based in Nairobi, Kenya
 * 🖥️  See my portfolio at [derickmg.dev](http://www.derickmg.dev/)
 * ✉️  You can contact me at [derickmghanga3329@gmail.com](mailto:derickmghanga3329@gmail.com)
-* 🚀  I'm currently working on [Boswazi](http://www.boswazi.com)
 * 🧠  I'm learning AI Engineering
 * 🤝  I'm open to collaborating on awesome projects that drive innovative solutions and technological advancements and shape the future.
 * ⚡  I am a Bsc. Electronics graduate.
